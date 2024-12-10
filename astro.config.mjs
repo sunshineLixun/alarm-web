@@ -5,6 +5,6 @@ import tailwind from "@astrojs/tailwind";
 import { defineConfig } from "astro/config";
 
 export default defineConfig({
-  site: "https://viewly-web.vercel.app",
+  site: "https://alarm-web.vercel.app",
   integrations: [tailwind(), react(), mdx(), sitemap()],
 });
