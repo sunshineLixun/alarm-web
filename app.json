@@ -1,27 +1,27 @@
 {
   "ads": false,
   "free": true,
-  "name": "Viewly",
+  "name": "自定义铃声闹钟",
   "theme": "",
   "contact": "lixunemial@gmail.com",
   "stores": {
-    "apple": "https://apps.apple.com/cn/app/viewly/id6705124001?platform=iphone"
+    "apple": "https://apps.apple.com/us/app/%E8%87%AA%E5%AE%9A%E4%B9%89%E9%93%83%E5%A3%B0%E9%97%B9%E9%92%9F/id6738997549"
   },
   "description": [
-    "一款强大的 AI 图片识别应用，识别图片中的内容、AI作诗、拍照翻译成多国语言。持续不断的更新更多功能..."
+    "一款自定义铃声的闹钟⏰ App."
   ],
   "features": [
     {
-      "title": "AI 图片识别",
-      "body": "识别图片中的内容、AI 作诗、翻译成多国语言"
+      "title": "自定义铃声",
+      "body": "随意定制闹钟铃声"
     },
     {
-      "title": "AI 作诗",
-      "body": "根据图片内容，AI 作诗"
+      "title": "跳过国内节假日",
+      "body": "自动跳过国内节假日，避免打扰"
     },
     {
-      "title": "翻译",
-      "body": "翻译成多国语言"
+      "title": "轻拟物化设计",
+      "body": "轻拟物化UI设计"
     },
     {
       "title": "更多内容",
